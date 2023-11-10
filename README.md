@@ -1,9 +1,5 @@
 # One-million-uses-of-machine-learning
 机器学习的100万种整活方式（标题为机翻）
-
-## 1. 使用flutter与python制作的简单聊天机器人
-[code](https://github.com/AI-change-the-world/chat-robot-with-flutter)
-
 ## 2. 基于[u-gat-it](https://github.com/znxlwm/UGATIT-pytorch)的铅笔画转真人脸
 [code](https://github.com/guchengxi1994/Hand-painted-faces-to-real-faces)
 
